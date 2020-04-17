@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'erubis',      '~> 2.7'
-  spec.add_dependency 'json_schema', '~> 0.3', '>= 0.3.1'
+  spec.add_dependency 'dato_json_schema', '~> 0.20', '>= 0.20.8'
 
   spec.add_development_dependency 'bundler',  '~> 2.0'
   spec.add_development_dependency 'rake',     '>= 12.3.3'
