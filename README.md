@@ -1,6 +1,6 @@
-# Prmd [![Travis Status](https://travis-ci.org/interagent/prmd.svg)](https://travis-ci.org/interagent/prmd)
+# Prmd
 
-[![Gem Version](https://badge.fury.io/rb/prmd.svg)](http://badge.fury.io/rb/prmd)
+[![Build Status](https://travis-ci.org/datocms/prmd.svg?branch=master)](https://travis-ci.org/datocms/prmd)
 
 JSON Schema tooling: scaffold, verify, and generate documentation
 from JSON Schema documents.
